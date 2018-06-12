@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="299ab4c7-f6a8-4214-8a14-35909c8cb059" name="core.playerlink.online" url="http://165.227.116.113">
+        <fileTransfer host="165.227.116.113" port="22" rootFolder="/var/www/core" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

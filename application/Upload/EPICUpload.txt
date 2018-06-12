@@ -1,0 +1,19 @@
+#PLO001
+#RTools PlayerLink Online Upload File - v.1.0.0
+Grand Prix Las Vegas 2018 Modern	1	8	-1	1528774344549
+765	Kmetz, Daniel	6	0	0.000000	0.000000	0.000000	1	Hammes, James
+764	Hammes, James	5	0	0.000000	0.000000	0.000000	1	Kmetz, Daniel
+763	Combs, Mike	4	0	0.000000	0.000000	0.000000	2	Andrews, George
+761	Andrews, George	2	0	0.000000	0.000000	0.000000	2	Combs, Mike
+769	Medwin, Allison	10	0	0.000000	0.000000	0.000000	3	Port, Steve
+771	Port, Steve	12	0	0.000000	0.000000	0.000000	3	Medwin, Allison
+766	Kolb, Matt	7	0	0.000000	0.000000	0.000000	4	Austin, Alan
+762	Austin, Alan	3	0	0.000000	0.000000	0.000000	4	Kolb, Matt
+773	Souders, Aaron	13	0	0.000000	0.000000	0.000000	5	Lussier, Dustin
+767	Lussier, Dustin	8	0	0.000000	0.000000	0.000000	5	Souders, Aaron
+774	Venancio, Ricardo	14	0	0.000000	0.000000	0.000000	6	Mcmurdo, Bill
+768	Mcmurdo, Bill	9	0	0.000000	0.000000	0.000000	6	Venancio, Ricardo
+770	Mouacheupao, Steve	11	0	0.000000	0.000000	0.000000	7	Vogt, Jason
+775	Vogt, Jason	15	0	0.000000	0.000000	0.000000	7	Mouacheupao, Steve
+772	Schamun, Donald	1	3	0.000000	100.0000	0.000000	0	*BYE	1,*BYE*,2-0
+
